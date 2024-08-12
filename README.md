@@ -4,67 +4,20 @@ O objetivo desse projeto é criar uma API que será consumida por uma aplicaçã
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
+Essa é uma API no padrão REST criada usando Django RestFramework, documentação será encontrada em '/swagger/'.
 
 ### 📋 Pré-requisitos
-
-De que coisas você precisa para instalar o software e como instalá-lo?
-
+Faça a instalação das dependências.
 ```
-Dar exemplos
+pip install -r requirements.txt
 ```
-
-### 🔧 Instalação
-
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
-
-```
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
-## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
-
-### 🔩 Analise os testes de ponta a ponta
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-## 📦 Implantação
-
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
-
 ## 🛠️ Construído com
 
 Mencione as ferramentas que você usou para criar seu projeto
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
+* [Django](https://www.djangoproject.com/) - O framework web usado
+* [Django Rest Framework](https://www.django-rest-framework.org/) - Criação da API nos Padrões REST
+* [DRF Yasg](https://drf-yasg.readthedocs.io/en/stable/) - Documentação da API
 
 ## 🖇️ Colaborando
 
